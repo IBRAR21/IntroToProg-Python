@@ -1,0 +1,3 @@
+Buy Milk|High
+Call Mom|Medium
+Pay Bills|High
